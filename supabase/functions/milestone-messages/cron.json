@@ -1,0 +1,5 @@
+{
+  "schedule": "0 0 * * *",
+  "function": "milestone-messages",
+  "description": "Check for match milestones (7, 30, 100 days) and send celebration messages"
+} 
