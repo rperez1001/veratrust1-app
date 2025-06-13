@@ -130,4 +130,3 @@ export function subscribeToLatestMessages(
     subscription.unsubscribe()
   }
 } 
-} 
